@@ -5,7 +5,7 @@ public interface QuadraticEquation {
     void findRoots(double a, double b, double c);
 }
 
-
+______________________
 
 // Implementation of the interface in the package Quad2
 package Quad2;
@@ -29,7 +29,7 @@ public class QuadraticEquationImpl implements QuadraticEquation {
     }
 }
 
-
+______________________
 
 // Main class to use the interface and implementation
 import Quad1.QuadraticEquation;
