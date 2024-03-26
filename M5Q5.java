@@ -8,10 +8,16 @@ public class Q5
 	
 	    public static void main(String[] args) 
 	    {
+	    	int a=10;
+	    	int b=0;
+	        
 	        try 
 	        {
-	            int result = divide(10, 0);
-	            System.out.println("Result of division: " + result);
+	        	int c=a/b;
+	        	
+				//int result = divide(10, 0);
+	          //  System.out.println("Result of division: " + c);
+	        	
 	        } 
 	        catch (ArithmeticException e)
 	        {
@@ -27,14 +33,6 @@ public class Q5
 	        }
 	    }
 
-	    public static int divide(int num, int den) 
-	    {
-	        if (den == 0) 
-	        {
-	            throw new ArithmeticException("Division by zero is not allowed.");
-	        }
-	        return num / den;
-	    }
+	   
 
 }
-
