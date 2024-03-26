@@ -1,3 +1,5 @@
+//10. Convert a given integer array of Size “N” into string.
+
 import java.util.Arrays;
 import java.util.Scanner;
 

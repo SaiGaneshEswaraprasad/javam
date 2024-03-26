@@ -1,3 +1,5 @@
+//13. Program to read a string and replace all the vowels with a ‘$’ symbol.  
+
 import java.util.Scanner;
 public class M3Q13 
 {

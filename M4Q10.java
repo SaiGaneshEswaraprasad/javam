@@ -1,3 +1,5 @@
+//10. Develop a program to demonstrate multiple inheritance through interface
+
 // Interface 1
 interface Interface1 {
     void method1();

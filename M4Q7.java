@@ -1,3 +1,5 @@
+//7. Design a vehicle class hierarchy in Java and develop a program to demonstrate Polymorphism.
+
 // Vehicle class (Parent class)
 class Vehicle {
     void move() {

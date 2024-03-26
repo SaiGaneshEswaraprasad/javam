@@ -1,3 +1,5 @@
+//11. Program to read and print a given string using different methods.   
+
 import java.util.Scanner;
 public class M3Q11
 {

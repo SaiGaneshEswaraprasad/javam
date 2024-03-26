@@ -1,3 +1,7 @@
+//1. Define a class Point with two fields x and y each of type double. Also , define a method distance(Point p1, Point  
+//p2) to calculate the distance between points p1 and p2 and return the value in double. Use Math.sqrt( ) to  
+//calculate the square root.  
+
 public class Point {
     private double x;
     private double y;

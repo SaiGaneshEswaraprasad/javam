@@ -1,3 +1,8 @@
+//2. A class Shape is defined with two overloading constructors in it. Another class Test1 is partially defined which  
+//inherits the class Shape. The class Test1 should include two overloading constructors as appropriate for 
+//some  object instantiation. You should define the constructors using the super class constructors. Also, 
+//override the  method calculate () in Test1 to calculate the volume of a Shape.   
+
 class Shape {
     double length;
     double width;
